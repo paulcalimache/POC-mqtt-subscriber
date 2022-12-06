@@ -1,0 +1,16 @@
+{
+  "name": "prosit-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "recepteur.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.12.1",
+    "mqtt": "^4.3.7"
+  }
+}
